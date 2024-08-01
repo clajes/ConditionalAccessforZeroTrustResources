@@ -1,5 +1,7 @@
 # Project
 
+Update from August 2024. I have retired from Microsoft. So please don't expect more updates to this repository. Feel free to reach out if you have questions to existing material.
+
 This repository holds some Conditional Access resources that complement the Azure Architecture design note "Conditional Access Guidance for Zero Trust".
 See more here for a description on CA configured for Zero Trust 
 
